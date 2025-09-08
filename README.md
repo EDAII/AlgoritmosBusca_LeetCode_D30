@@ -15,4 +15,4 @@ Neste tópico você deve adicionar imagens do funcionamento do projeto.
  - As imagens devem ser salvas no repositório.
  - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
 ## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
+Cláudio: Nas minhas questões utilizei o algoritmo de busca binária para duas questões dificeis, e um algoritmo de busca em árvore para resolver uma questão de dificuldade média.
