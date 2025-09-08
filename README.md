@@ -4,7 +4,7 @@
 | 22/1007958 | Cláudio Henrique dos Santos Carvalho |  
 | xx/xxxxxxx | Arthur da Silveira Sousa |  
 ## Descrição do projeto
-Questões resolvidas do LeetCode sobre Algoritmos de Busca e Ordenação.
+Questões resolvidas do LeetCode sobre Algoritmos de Busca.
 
 ## Guia de instalação
 Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
