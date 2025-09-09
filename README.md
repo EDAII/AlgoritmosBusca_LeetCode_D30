@@ -13,6 +13,8 @@ Questões resolvidas do LeetCode sobre Algoritmos de Busca da disciplina de Estr
 |Questão | Dificuldade | Autor|
 | -- | -- | -- |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description)| Difícil | Cláudio|
+| [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| Difícil | Arthur|
+| [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)| Difícil | Arthur|
 | [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description)| Difícil | Cláudio|
 | [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description)| Médio| Cláudio|
 
@@ -36,20 +38,21 @@ Basta executar os scripts python que estão na pasta de questões de cada aluno.
 
 ![img flatten](/QuestoesClaudio/imgs/img-flatten.png)
 
-#### Artur
+#### Arthur
 
-### Exercício 01 - Difícil - 23. Merge k Sorted Lists
+### [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ![Screenshot do exercício 34](assets/merge.png)
 
-### Exercício 02 - Difícil - 30. Substring with Concatenation of All Words
+### [30. Substring with Concatenation of All Words](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ![Screenshot do exercício 34](assets/subs.png)
 
 ## Gravação
 
 [Link do vídeo aqui - Cláudio Henrique](https://www.youtube.com/watch?v=I0YphfFqMPU)
+[Link do vídeo aqui - Arthur Sousa](https://youtu.be/R8tEg9uwN_M)
 
 ## Conclusões
 Cláudio: Nas minhas questões utilizei o algoritmo de busca binária para duas questões dificeis, e um algoritmo de busca em árvore para resolver uma questão de dificuldade média.
-Arthur: Utilizei tabela hash e a técnica chamada *sliding windown* em um exercício e no outro utilizei o método **dividir e conquistar**.
+Arthur: Utilizei tabela hash e a técnica chamada *sliding window* em um exercício e no outro utilizei o método **dividir e conquistar**.
