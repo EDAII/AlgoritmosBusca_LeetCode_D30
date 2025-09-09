@@ -48,7 +48,7 @@ Basta executar os scripts python que estão na pasta de questões de cada aluno.
 
 ## Gravação
 
-[Link do vídeo aqui]()
+[Link do vídeo aqui - Cláudio Henrique](https://www.youtube.com/watch?v=I0YphfFqMPU)
 
 ## Conclusões
 Cláudio: Nas minhas questões utilizei o algoritmo de busca binária para duas questões dificeis, e um algoritmo de busca em árvore para resolver uma questão de dificuldade média.
