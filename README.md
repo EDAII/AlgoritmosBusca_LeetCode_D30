@@ -51,6 +51,7 @@ Basta executar os scripts python que estão na pasta de questões de cada aluno.
 ## Gravação
 
 [Link do vídeo aqui - Cláudio Henrique](https://www.youtube.com/watch?v=I0YphfFqMPU)
+
 [Link do vídeo aqui - Arthur Sousa](https://youtu.be/R8tEg9uwN_M)
 
 ## Conclusões
